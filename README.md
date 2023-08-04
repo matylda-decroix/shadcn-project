@@ -1,3 +1,9 @@
+## Shadcn sandbox project
+
+This is a sandbox project for me to learn Shadcn with Next 13!
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
